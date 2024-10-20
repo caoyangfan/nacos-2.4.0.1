@@ -19,4 +19,7 @@ com.alibaba.nacos.plugin.datasource.dialect.DefaultDatabaseDialect
 
 com.alibaba.nacos.plugin.datasource.dialect.DaMengDatabaseDialect
 
+com.alibaba.nacos.plugin.datasource.dialect.PostgresqlDatabaseDialect
+
+
 
